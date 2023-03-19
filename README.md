@@ -3,6 +3,6 @@
 
 For any BPA help, read methodical information, and attend a lectures =)
 
-But, there're a great solution for some kinds of tricks: https://github.com/owl-from-hogvarts/OPD-guide
+But, there's a beautiful solution for some kinds of tricks: https://github.com/owl-from-hogvarts/OPD-guide, made by Ternavsky Konstantin from P3106 group.
 
 (my fork with russian translation: https://github.com/Zerumi/OPD-guide-RU-)
