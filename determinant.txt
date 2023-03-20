@@ -1,0 +1,43 @@
+Det 3x3 matrix BCOMP
+
+Formula:
+    |x y z|
+R = |v y u|
+    |i j k|
+
+R = x*y*k + v*j*z + i*y*u - i*y*z - x*u*j - y*v*k
+
+DATA
+033 | 0294 //sub-program address
+034 | 0001 //x
+035 | 0002 //y
+036 | 0003 //z
+037 | 0004 //v
+038 | 0005 //y
+039 | 0006 //u
+03A | 0007 //i
+03B | 0008 //j
+03C | 0009 //k
+
+Program
+03D | 
+
+Sub-program (multipy)
+R' = m1*m2*m3
+
+DATA
+291 | 0001 //m1 - result
+292 | 0002 //m2
+293 | 0003 //m3
+
+Sub-Program
+294 | 0200
+295 | 4EFB
+296 | 8EFB
+297 | CEFD
+298 | EEF8
+299 | 4EF9
+29A | 8EF8
+29B | CEFD
+29C | EEF4
+29D | 0A00
