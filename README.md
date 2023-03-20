@@ -1,5 +1,5 @@
 # Ifmo-BPA_Labs
-1 semester ITMO Basics of Professional Activity (BPA) Labs
+1-2 semester ITMO Basics of Professional Activity (BPA) Labs
 
 For any BPA help, read methodical information, and attend a lectures =)
 
